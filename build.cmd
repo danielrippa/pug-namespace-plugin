@@ -1,0 +1,1 @@
+call lsc -cb --no-header %~dp0pug-namespace-plugin.ls
